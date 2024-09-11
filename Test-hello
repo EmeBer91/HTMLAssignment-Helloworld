@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+   
+    <title>Hello</title>
+  
+</head>
+<body>
+    <h1>Detta är ett test</h1>
+    <p>loreum </p>
+
+    <button id="clickMe">Klicka på mig!</button>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
